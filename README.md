@@ -31,4 +31,4 @@ Sample Run:
 4.) If number is not within 10%, he is prompted again [Incorrect guess. Try again.]
 5.) User enters number [20]
 6.) User is shown message for a correct guess [Well Done. You took 2 tries to
-guess. Average tries is 2]
+guess. Average tries is 2].
